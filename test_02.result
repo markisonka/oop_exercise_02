@@ -1,0 +1,16 @@
+You created bottle number 1
+Volume:20, Fill percent:0.5, Filled volume:10
+You created bottle number 2
+Volume:10, Fill percent:0.5, Filled volume:5
+You created bottle number 3
+Volume:20, Fill percent:0.25, Filled volume:5
+1 2 = false
+2 1 = false
+3 2 = true
+2 3 = true
+1 2 > true
+2 1 > false
+1 2 < false
+2 1 < true
+Incorrect parameters
+Incorrect parameters

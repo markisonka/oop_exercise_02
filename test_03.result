@@ -1,0 +1,12 @@
+You created bottle number 1
+Volume:20, Fill percent:0.5, Filled volume:10
+You created bottle number 2
+Volume:10, Fill percent:0.5, Filled volume:5
+You created bottle number 3
+Volume:7, Fill percent:0.2, Filled volume:1.4
+1 2 + 15
+2 1 + 15
+1 2 - 5
+2 1 - -5
+3 2 - -3.6
+2 3 - 3.6
